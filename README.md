@@ -1,6 +1,6 @@
 ![Window](https://github.com/Demston/Your_Personal_Geography/blob/main/screenshot_window.png)
 
-![Window](https://github.com/Demston/Your_Personal_Geography/blob/main/screenshot_table.png)
+![Window](https://github.com/Demston/Your_Personal_Geography/blob/main/screenshot_ex_table.png)
 ------------------------------------------------------------------------
 ## ТВОЯ ПЕРСОНАЛЬНАЯ ГЕОГРАФИЯ
 
